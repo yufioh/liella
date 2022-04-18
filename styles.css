@@ -1149,4 +1149,14 @@ img[alt ="pause-icon"] {
     100% {opacity:1;}
   }
   
+  .desktop {
+    display: inline;
+  }
+  
+  @media only screen
+  and (min-device-width : 320px)
+  and (max-device-width : 769px){  
+    .desktop { display: none;}
+  }
+  
   
