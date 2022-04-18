@@ -1023,11 +1023,11 @@ img[alt ="pause-icon"] {
    -webkit-text-fill-color: transparent;
    -webkit-text-stroke-width: .85vh;
    -webkit-text-stroke-color: rgb(255, 255, 255, 0.5);
-   font-size: 17vh;
-   letter-spacing: -12px;
+   font-size: 1085%;
    font-family: 'M PLUS Rounded 1c', sans-serif;
+   letter-spacing: -12px;
    position: absolute;
-   width: 100%;
+   width: 2000px;
    height: 100%;
    margin: 0;
    line-height: 50px;
@@ -1075,11 +1075,10 @@ img[alt ="pause-icon"] {
    -webkit-text-fill-color: transparent;
    -webkit-text-stroke-width: .45vh;
    -webkit-text-stroke-color: rgb(255, 255, 255, 0.5);
-   font-size: 17vh;
-   letter-spacing: 2px;
+   font-size: 1100%;
    font-family: 'Fredoka One', cursive;
    position: absolute;
-   width: 100%;
+   width: 2000px;
    height: 100%;
    margin: 0;
    line-height: 50px;
@@ -1158,5 +1157,3 @@ img[alt ="pause-icon"] {
   and (max-device-width : 769px){  
     .desktop { display: none;}
   }
-  
-  
