@@ -1027,7 +1027,7 @@ img[alt ="pause-icon"] {
    font-family: 'M PLUS Rounded 1c', sans-serif;
    letter-spacing: -12px;
    position: absolute;
-   width: 2000px;
+   width: 100%;
    height: 100%;
    margin: 0;
    line-height: 50px;
@@ -1078,7 +1078,7 @@ img[alt ="pause-icon"] {
    font-size: 1100%;
    font-family: 'Fredoka One', cursive;
    position: absolute;
-   width: 2000px;
+   width: 100%;
    height: 100%;
    margin: 0;
    line-height: 50px;
